@@ -42,7 +42,7 @@ namespace QFramework
 			#if UNITY_5 
 			case BuildTarget.StandaloneOSXUniversal:
 			#else
-			case BuildTarget.StandaloneOSX:
+			case BuildTarget.StandaloneOSXUniversal:
 			#endif
 				return "OSX";
 				// Add more build targets for your own.
