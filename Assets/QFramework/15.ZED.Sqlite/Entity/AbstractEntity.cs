@@ -24,6 +24,7 @@ public class AbstractEntity {
     /// </summary>
     public virtual void Pack()
     {
+
     }
 
     /// <summary>
@@ -31,6 +32,7 @@ public class AbstractEntity {
     /// </summary>
     public virtual void UnPack()
     {
+
     }
 
 
